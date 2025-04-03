@@ -64,7 +64,7 @@ export const projects: Project[] = [
     id: 6,
     title: "Catopia",
     description: "Simple Nft farming game.",
-    image: "../../../Image/Catopia.jpg",
+    image: "/Catopia.jpg",
     status: "Completed",
     progress: 100,
     url: "https://t.me/catopia_game_bot",
